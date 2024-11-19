@@ -1,0 +1,3 @@
+C:/Users/greno/CLionProjects/PENDU DEF/cmake-build-debug/CMakeFiles/PENDU.dir
+C:/Users/greno/CLionProjects/PENDU DEF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/greno/CLionProjects/PENDU DEF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
